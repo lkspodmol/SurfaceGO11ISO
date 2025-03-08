@@ -13,4 +13,4 @@ IF some drivers arent gonna work, im sorry for that. I took them from my current
 
 WIth all that. Good luck!
 
-(List of drivers under me)
+(List of drivers under in txt)
