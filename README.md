@@ -2,7 +2,7 @@
 A windows 11 iso for Microsoft Surface Go 1st edition with 128GB ssd with all drivers.
 
 
-This iso is still in BETA and I didnt test it yet. 
+This iso is wasnt tested yet. 
 You take all responsibilities if something bad happens. I do not tae liability for any damage to your device.
 
 This iso is only for version that has 128GB ssd, because 64GB has different storage type.
