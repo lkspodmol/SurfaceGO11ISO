@@ -11,6 +11,6 @@ After install. There is gonna pop up a powershell window that will isntall all t
 If install of drivers will fail, there are inf files in the iso (\sources\$OEM$\$1\Drivers).
 IF some drivers arent gonna work, im sorry for that. I took them from my current Surface Go.
 
-WIth all that. Good luck!
+With all that. Good luck!
 
 (List of drivers under in txt)
